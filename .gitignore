@@ -1,0 +1,3 @@
+# não pegar .zip  e .mrpack do cf/mr 
+*.zip 
+*.mrpack
