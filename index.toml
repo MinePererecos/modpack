@@ -1,2 +1,36 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "dd5fd2a9a1237239586b6d286b55eaf43c84e080f2491a9be64efa3ea4bd7902"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "22cb998de2357718a49b4d5b56d2eca12ce25839b20e8fad1ed090cc1d1188a6"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "d917697e84a95f857a447d26f94d93169a5a62176c93193cdf80c8d8bc1e280a"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "58050efb1e3baae46cf316a13426ae3829f589b8fae8d59990fe4b680faad90b"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "ece36a60c9afd8cbbe422a0fd72b11873d52eb87702cbfa5bc19cb5c44366398"
+metafile = true
+
+[[files]]
+file = "mods/streamotes.pw.toml"
+hash = "1f1876167380cf3516c3ec8dcab96693a33552ee25030d605c05d1f2ff3db08f"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "4be2560016713edf2fa498d2d8b635854e196d75a05452e2ca0d09f1bc1105a7"
+metafile = true
