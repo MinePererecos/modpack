@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "abroba/abroba.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "dd5fd2a9a1237239586b6d286b55eaf43c84e080f2491a9be64efa3ea4bd7902"
 metafile = true
